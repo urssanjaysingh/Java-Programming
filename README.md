@@ -42,10 +42,6 @@ The source code includes comments to provide explanations and insights for easy 
 
 urssanjaysingh welcomes contributions to this repository! If you find a bug, have an idea for an enhancement, or want to add new examples, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
